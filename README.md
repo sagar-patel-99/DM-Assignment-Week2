@@ -11,3 +11,9 @@
  1. Used pycaret for kaggle dataset analysis and did different type of classifications.
  2. I uploaded the dataset through google drive and then used compare model function to figure out which model's accuracy is best for that specific classification of dataset. Using that I explored and created different matrix to understand dataset in a more easy way. 
  3. I was able to do all the classification with uniqe datasets and was able to do whole processing. However I did find some difficulties in time series forecasting. I was getting error on setup() I tried sorting that out but was finding some issues. I was able to do the time series forecasting in both with and without exogeneous variable.
+ 4. I have done gradio in multiclass and regression classification and I am attaching the drive link of screen recording of both tha cases below.
+
+Gradio in multiclass classification - https://drive.google.com/file/d/1nqNvVAee-8OShKL3DO6CZ6HNqKVXxo3I/view?usp=share_link
+
+
+Gradio in regression classification - https://drive.google.com/file/d/1YuLkvE9IBWS0NFgdZBuChfd4RCjVR4OD/view?usp=share_link
